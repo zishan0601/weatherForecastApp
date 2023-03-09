@@ -1,6 +1,8 @@
 # weatherForecastApp
 
 ## 1. 项目来源
+使用Qt编写的天气预报小程序
+
 B站up主，大轮明王讲Qt
 
 视频链接：https://www.bilibili.com/video/BV1D841147zt/?spm_id_from=333.788&vd_source=3fe012baa05e0a85a632ab8a4b77f14a
